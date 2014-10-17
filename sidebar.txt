@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psd:home|Door43 (psd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psd|d43-psd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psd/archive/master.zip|d43-psd.zip]]
+
+**Recent Changes**
+{{changes>ns = psd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psd|Ethnologue data]]
+
